@@ -63,8 +63,10 @@ subtrees:
       title: GRPO with Unsloth
     - file: notebooks/fine_tune/slime_qwen3_4B_GRPO.ipynb
       title: GRPO with slime
+    - file: notebooks/fine_tune/pokemon_llm_agent_unsloth_rocm.ipynb
+      title: Pokémon Showdown agent with Unsloth on ROCm
 
-  - caption: Pretraining tutorials
+ - caption: Pretraining tutorials
     entries:
     - file: notebooks/pretrain/setup_tutorial.ipynb
       title: Training configuration with Megatron-LM
